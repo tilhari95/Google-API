@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.0">
+<file name="/home/suyash/workspace/google-api-java-client.samples/plus-preview-appengine-sample/src/main/java/com/google/api/services/samples/plus/PlusSampleAuthCallbackServlet.java">
+</file>
+<file name="/home/suyash/workspace/google-api-java-client.samples/plus-preview-appengine-sample/src/main/java/com/google/api/services/samples/plus/Utils.java">
+</file>
+<file name="/home/suyash/workspace/google-api-java-client.samples/plus-preview-appengine-sample/src/main/java/com/google/api/services/samples/plus/PlusBasicServlet.java">
+</file>
+<file name="/home/suyash/workspace/google-api-java-client.samples/plus-preview-appengine-sample/src/main/java/com/google/api/services/samples/plus/PlusSampleServlet.java">
+<error line="61" severity="error" message="Line is longer than 100 characters." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/home/suyash/workspace/google-api-java-client.samples/plus-preview-appengine-sample/src/main/java/com/google/api/services/samples/plus/Suyash.java">
+<error line="0" severity="error" message="Google copyright is missing or malformed." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="10" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+<error line="28" column="1" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="30" severity="error" message="Line is longer than 100 characters." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="31" severity="error" message="All TODOs should be named.  e.g. &quot;TODO(johndoe): Refactor when v2 is released.&quot;" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+</checkstyle>
